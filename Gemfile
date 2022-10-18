@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-gem "minimal-mistakes-jekyll"
+#gem "minimal-mistakes-jekyll"
 gem "github-pages",group: :jekyll_plugins
 gem "jekyll-include-cache",group: :jekyll_plugins
 # Hello! This is where you manage which Jekyll version is used to run.
