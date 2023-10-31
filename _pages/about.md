@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am an undergraduate student from Guozhi Class, Shanghai Jiao Tong University, majoring in Artificial Intelligence. Currently, I work as a research intern at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). Meanwhile, I also work as a research intern at [**ReThinkLab**](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
 
-My research interest includes ***robotics, embodied AI, autonomous driving and computer vision***. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2FRayeRen%2Facad-homepage.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
+My research interest includes ***robotics, embodied AI, autonomous driving and computer vision***. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
 
 # 🔥 News
 
