@@ -45,7 +45,7 @@ My research interest includes ***robotics, embodied AI, autonomous driving and c
 </div>
 </div>
 
-<div class='paper-box-right'><div class='paper-box-image'><div><a href="https://thinklab.sjtu.edu.cn"><img src='images/sjtu_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
+<div class='paper-box-right'><div class='paper-box-image'><div><a href="https://thinklab.sjtu.edu.cn"><img src='images/thinklab_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
 ## ReThinkLab, Shanghai Jiao Tong University
 
