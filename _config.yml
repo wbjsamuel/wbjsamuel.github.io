@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bangjun Wang's Homepage"
-description              : "B.S. at SJTU"
+description              : "Striving to be a good researcher and teaching robots to perceive and interact with the world."
 repository               : "wbjsamuel/wbjsamuel.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Bangjun Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "SJTU, OpenDriveLab"
+  bio              : "Shanghai Jiao Tong University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
