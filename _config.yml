@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Bangjun Wang's Homepage"
-description              : "Striving to be a good researcher and teaching robots to perceive and interact with the world."
+description              : "Striving to be a good AI researcher and teaching robots how to perceive and interact with the world."
 repository               : "wbjsamuel/wbjsamuel.github.io"
 google_scholar_stats_use_cdn : true
 
