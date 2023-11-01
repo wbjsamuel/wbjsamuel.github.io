@@ -66,7 +66,7 @@ My research interest includes ***robotics, embodied AI, autonomous driving and c
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuraIPS 2023</div><img src='images/olv2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-[OpenLane-V2: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving](https://openreview.net/pdf?id=OMOOO3ls6g)
+[**OpenLane-V2: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving**](https://openreview.net/pdf?id=OMOOO3ls6g)
 
 Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun Wang**, Peijin Jia, Yuting Wang, Shengyin Jiang, Feng Wen, Hang Xu, Ping Luo, Junchi Yan, Wei Zhang, Hongyang Li
 
