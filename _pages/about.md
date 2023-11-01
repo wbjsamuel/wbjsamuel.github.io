@@ -87,6 +87,10 @@ Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun W
 
 - *2021.09 - Present*, Undergraduate, Artificial Intelligence, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
 
+# 🧑🏻‍💻 Service
+- Administrator of Computing Cluster, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
+- Class monitor, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
+
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
