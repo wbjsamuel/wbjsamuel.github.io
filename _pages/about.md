@@ -23,16 +23,16 @@ My research interest includes ***robotics, embodied AI, autonomous driving and c
 
 # 🔥 News
 
-- *2023.09*: &nbsp;🎉 One paper(OpenLane-V2) is accepted by **NeurIPS 2023**
-- *2023.07*: &nbsp;✍🏻 Participate in **RACV 2023**
-- *2023.03*: &nbsp;🎉 Become a member of [**OpenDriveLab**](https://opendrivelab.com)
-- *2023.02*: &nbsp;💻 Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He
-- *2022.11*: &nbsp;🎉 Become a member of  [**(re)ThinkLab**](https://thinklab.sjtu.edu.cn)
-- *2022.08*: &nbsp;🎉 Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory
-- *2021.12*: &nbsp;🎉 Enrolled in Guozhi Class
+- *2023.09*: &nbsp; One paper(OpenLane-V2) is accepted by **NeurIPS 2023**
+- *2023.07*: &nbsp; Participate in **RACV 2023**
+- *2023.03*: &nbsp; Become a member of [**OpenDriveLab**](https://opendrivelab.com)
+- *2023.02*: &nbsp; Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He
+- *2022.11*: &nbsp; Become a member of  [**(re)ThinkLab**](https://thinklab.sjtu.edu.cn)
+- *2022.08*: &nbsp; Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory
+- *2021.12*: &nbsp; Enrolled in Guozhi Class
 
 # 💻 Internships
-<div class='paper-box-right'><div class='paper-box-image'><div><img src='images/odl_logo.png' alt="sym" width="100px" style="padding: 10px;"></div></div>
+<div class='paper-box-right'><div class='paper-box-image'><div><a href="https://opendrivelab.com"><img src='images/odl_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
 ## OpenDriveLab
 
@@ -43,7 +43,7 @@ My research interest includes ***robotics, embodied AI, autonomous driving and c
 </div>
 </div>
 
-<div class='paper-box-right'><div class='paper-box-image'><div><img src='images/sjtu_logo.png' alt="sym" width="100px" style="padding: 10px;"></div></div>
+<div class='paper-box-right'><div class='paper-box-image'><div><a href="https://thinklab.sjtu.edu.cn"><img src='images/sjtu_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
 ## ReThinkLab, Shanghai Jiao Tong University
 
@@ -53,7 +53,7 @@ My research interest includes ***robotics, embodied AI, autonomous driving and c
 </div>
 </div>
 
-<div class='paper-box-right'><div class='paper-box-image'><div><img src='images/sjtu_logo.png' alt="sym" width="100px" style="padding: 10px;"></div></div>
+<div class='paper-box-right'><div class='paper-box-image'><div><a href="https://ynysjtu.github.io/"><img src='images/sjtu_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
 ## Nanyang Ye’s lab, JHC, Shanghai Jiao Tong University
 
