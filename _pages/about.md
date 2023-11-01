@@ -29,7 +29,7 @@ My research interest includes ***robotics, embodied AI, autonomous driving and c
 - *2023.07*: &nbsp; Participate in **RACV 2023**
 - *2023.03*: &nbsp; Become a member of [**OpenDriveLab**](https://opendrivelab.com)
 - *2023.02*: &nbsp; Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He
-- *2022.11*: &nbsp; Become a member of  [**(re)ThinkLab**](https://thinklab.sjtu.edu.cn)
+- *2022.11*: &nbsp; Become a member of  [**ReThinkLab**](https://thinklab.sjtu.edu.cn)
 - *2022.08*: &nbsp; Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory
 - *2021.12*: &nbsp; Enrolled in Guozhi Class
 
