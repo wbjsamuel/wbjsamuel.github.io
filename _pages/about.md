@@ -72,8 +72,8 @@ Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun W
 
 [**Project**](https://github.com/OpenDriveLab/OpenLane-V2) <strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong>
 
-- *The World's First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving.*
-
+- *The World's First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving.* <a href="https://github.com/OpenDriveLab/OpenLane-V2"><img src="https://img.shields.io/github/stars/OpenDriveLab/OpenLane-V2?style=social" alt="GitHub" style="opacity: .8"></a>
+- [OpenLane Topology, AD Challenge 2023, CVPR 2023](https://opendrivelab.com/AD23Challenge.html#openlane_topology)
 </div>
 </div>
 
