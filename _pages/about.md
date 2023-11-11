@@ -93,7 +93,7 @@ Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun W
 
 # 🧑🏻‍💻 Service
 - Reviewer for CVPR 2024
-- Maintainer for [opendrivelab.com](opendrivelab.com) and [opendrivelab.sjtu.edu.cn](opendrivelab.sjtu.edu.cn)
+- Maintainer for [opendrivelab.com](https://opendrivelab.com) and [opendrivelab.sjtu.edu.cn](https://opendrivelab.sjtu.edu.cn)
 - Administrator of Computing Cluster, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
 - Class monitor, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
 
