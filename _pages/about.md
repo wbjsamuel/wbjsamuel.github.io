@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am an undergraduate student from the first session of [**Guozhi Class**](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb)(held by [Prof.Cewu Lu](https://www.mvig.org/) and [Prof.Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/)), Shanghai Jiao Tong University and major in **Artificial Intelligence**. 
+Hi, I am an undergraduate student from the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb)(held by [Prof.Cewu Lu](https://www.mvig.org/) and [Prof.Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/)), Shanghai Jiao Tong University and major in **Artificial Intelligence**. 
 
 Currently, I work as a research intern at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). Meanwhile, I also work as a research intern at [**ReThinkLab**](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
 
@@ -33,12 +33,12 @@ My research interest includes ***robotics, embodied AI, autonomous driving and c
 - *2022.08*: &nbsp; Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory in JHC, Shanghai Jiao Tong University
 - *2021.12*: &nbsp; Enrolled in [**Guozhi Class**](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb)
 
-# 💻 Experience
+# 💻 Internships
 <div class='paper-box-right'><div class='paper-box-image'><div><a href="https://opendrivelab.com"><img src='images/odl_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
 ## OpenDriveLab
 
-*2023.03 - (present)*, Research Intern, Supervisor: Prof. [Hongyang Li](https://lihongyang.info).
+*2023.03 - (present)*, Supervisor: Prof. [Hongyang Li](https://lihongyang.info).
 - **Robotics, Robot Learning**
 - **Structural Understanding for Driving Scenes**
 
@@ -49,7 +49,7 @@ My research interest includes ***robotics, embodied AI, autonomous driving and c
 <div class='paper-box-text' markdown="1">
 ## ReThinkLab, Shanghai Jiao Tong University
 
-*2022.11 - (present)*, Research Undergrad., Supervisor: Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
+*2022.11 - (present)*, Supervisor: Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
 - **Image Retrieval, Image Matching**
 
 </div>
@@ -59,7 +59,7 @@ My research interest includes ***robotics, embodied AI, autonomous driving and c
 <div class='paper-box-text' markdown="1">
 ## Nanyang Ye’s lab, JHC, Shanghai Jiao Tong University
 
-*2022.6 - 2022.11*, Research Undergrad., Supervisor: Prof. [Nanyang Ye](https://ynysjtu.github.io)
+*2022.6 - 2022.11*, Supervisor: Prof. [Nanyang Ye](https://ynysjtu.github.io)
 - **Causal Inference, OoD learning, OoD HDR Video Compression**
 </div>
 </div>
@@ -90,7 +90,7 @@ Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun W
 - *2021.09 - Present*, Undergraduate, Artificial Intelligence, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
 
 # 🧑🏻‍💻 Service
-- Reviewer for **CVPR 2024**
+- **Reviewer** for CVPR 2024
 - **Administrator of Computing Cluster**, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
 - **Class monitor**, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
 
