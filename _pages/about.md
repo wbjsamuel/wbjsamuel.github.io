@@ -17,11 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am an undergraduate student from the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb)(held by [Prof.Cewu Lu](https://www.mvig.org/) and [Prof.Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/)), Shanghai Jiao Tong University and major in **Artificial Intelligence**. 
+Hi, I am an undergraduate student from the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) (held by [Prof.Cewu Lu](https://www.mvig.org/) and [Prof.Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/)), Shanghai Jiao Tong University and major in **Artificial Intelligence**. 
 
 Currently, I work as a research intern at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). Meanwhile, I also work as a research intern at [**ReThinkLab**](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
 
 My research interest includes ***robotics, embodied AI, autonomous driving and computer vision***. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
+
+<!-- In my spare time, I enjoy playing tennis, travelling and drilling my skills in both photography and cinematography and I am also a big fan of jazz and classical music! -->
 
 # 🔥 News
 - *2023.11*: &nbsp; Going to serve as a reviewer for **CVPR 2024**
@@ -90,9 +92,10 @@ Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun W
 - *2021.09 - Present*, Undergraduate, Artificial Intelligence, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
 
 # 🧑🏻‍💻 Service
-- **Reviewer** for CVPR 2024
-- **Administrator of Computing Cluster**, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
-- **Class monitor**, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
+- Reviewer for CVPR 2024
+- Maintainer for [opendrivelab.com](opendrivelab.com) and [opendrivelab.sjtu.edu.cn](opendrivelab.sjtu.edu.cn)
+- Administrator of Computing Cluster, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
+- Class monitor, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
 
 <!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
