@@ -90,7 +90,7 @@ Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun W
 # 📖 Educations
 
 - *2021.09 - Present*, Undergraduate, Artificial Intelligence, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
-- TOEFL iBT: 106(R:29, L:28, S:22, W:27)(first time), CET6:638
+- TOEFL iBT: 106(R:29, L:28, S:22, W:27)(first time), CET6:638(first time)
 
 # 🧑🏻‍💻 Service
 - Reviewer for CVPR 2024

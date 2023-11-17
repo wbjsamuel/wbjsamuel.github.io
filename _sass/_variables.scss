@@ -18,10 +18,10 @@ $serif                      : Georgia, Times, serif;
 // $sans-serif                 : Georgia, Helvetica, sans-serif;
 
 
-$sans-serif                 : Georgia, "Helvetica Neue", serif, sans-serif;
+$sans-serif                 : Georgia, "Helvetica Neue", -apple-system, "Noto Sans Display", "Lato", "Roboto", serif, sans-serif;
 // $sans-serif                 : "JetBrains Mono", "SF Mono", Helvetica, -apple-system, "San Francisco";
 // $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+$monospace                  : "JetBrains Mono", Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
