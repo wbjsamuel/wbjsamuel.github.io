@@ -23,7 +23,7 @@ Currently, I work as a research intern at [**OpenDriveLab**](https://opendrivela
 
 My research interest includes ***robotics, embodied AI, autonomous driving and computer vision***. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
 
-<!-- In my spare time, I enjoy playing tennis, travelling and drilling my skills in both photography and cinematography and I am also a big fan of jazz and classical music! -->
+In my spare time, I enjoy playing tennis, travelling and drilling my skills in both photography and cinematography and I am also a big fan of jazz and classical music!
 
 # 🔥 News
 - *2023.11*: &nbsp; Going to serve as a reviewer for **CVPR 2024**
@@ -69,7 +69,7 @@ My research interest includes ***robotics, embodied AI, autonomous driving and c
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuraIPS 2023</div><img src='images/olv2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box-text' markdown="1" style="font-family: Georgia, sans-serif; font-size: 14px;">
 [**OpenLane-V2: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving**](https://openreview.net/pdf?id=OMOOO3ls6g)
 
 Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun Wang**, Peijin Jia, Yuting Wang, Shengyin Jiang, Feng Wen, Hang Xu, Ping Luo, Junchi Yan, Wei Zhang, Hongyang Li
@@ -90,7 +90,7 @@ Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun W
 # 📖 Educations
 
 - *2021.09 - Present*, Undergraduate, Artificial Intelligence, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
-- TOEFL iBT: 106(R:29, L:28, S:22, W:27)(first time), CET6:638(first time)
+- **TOEFL iBT**: 106(R:29, L:28, S:22, W:27)(first time), **CET6**: 638(first time)
 
 # 🧑🏻‍💻 Service
 - Reviewer for CVPR 2024
