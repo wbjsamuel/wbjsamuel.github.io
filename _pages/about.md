@@ -23,7 +23,7 @@ Currently, I work as a research intern at [**OpenDriveLab**](https://opendrivela
 
 My research interest includes ***robotics, embodied AI, autonomous driving and computer vision***. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
 
-In my spare time, I enjoy playing tennis, travelling and drilling my skills in both photography and cinematography and I am also a big fan of jazz and classical music!
+In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my skills in both photography📷 and cinematography🎥 and I am also a big fan of jazz🎷 and classical music🎼!
 
 # 🔥 News
 - *2023.11*: &nbsp; Going to serve as a reviewer for **CVPR 2024**
