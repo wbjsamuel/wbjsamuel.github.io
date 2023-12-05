@@ -69,7 +69,7 @@ In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my ski
 # 📝 Publications
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuraIPS 2023</div><img src='images/olv2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="font-family: Georgia, sans-serif; font-size: 14px;">
+<div class='paper-box-text' markdown="1" style="font-family:  Georgia, serif; font-size: 14px;">
 [**OpenLane-V2: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving**](https://openreview.net/pdf?id=OMOOO3ls6g)
 
 Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun Wang**, Peijin Jia, Yuting Wang, Shengyin Jiang, Feng Wen, Hang Xu, Ping Luo, Junchi Yan, Wei Zhang, Hongyang Li
