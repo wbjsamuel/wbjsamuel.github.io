@@ -26,14 +26,14 @@ My research interest includes ***robotics, embodied AI, autonomous driving and c
 In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my skills in both photography📷 and cinematography🎥 and I am also a big fan of jazz🎷 and classical music🎼 !
 
 # 🔥 News
-- *2023.11*: &nbsp; Going to serve as a reviewer for **CVPR 2024**
-- *2023.09*: &nbsp; One paper(OpenLane-V2) is accepted by **NeurIPS 2023**
-- *2023.07*: &nbsp; Participate in [**RACV 2023**](https://mp.weixin.qq.com/s/xq5vVxIL27NLLQX9oFgv1w)
-- *2023.03*: &nbsp; Become a member of [**OpenDriveLab**](https://opendrivelab.com)
-- *2023.02*: &nbsp; Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He
-- *2022.11*: &nbsp; Become a member of  [**ReThinkLab**](https://thinklab.sjtu.edu.cn)
-- *2022.08*: &nbsp; Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory in JHC, Shanghai Jiao Tong University
-- *2021.12*: &nbsp; Enrolled in [**Guozhi Class**](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb)
+- 2023.11: &nbsp; Going to serve as a reviewer for **CVPR 2024**
+- 2023.09: &nbsp; One paper(OpenLane-V2) is accepted by **NeurIPS 2023**
+- 2023.07: &nbsp; Participate in [**RACV 2023**](https://mp.weixin.qq.com/s/xq5vVxIL27NLLQX9oFgv1w)
+- 2023.03: &nbsp; Become a member of [**OpenDriveLab**](https://opendrivelab.com)
+- 2023.02: &nbsp; Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He
+- 2022.11: &nbsp; Become a member of  [**ReThinkLab**](https://thinklab.sjtu.edu.cn)
+- 2022.08: &nbsp; Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory in JHC, Shanghai Jiao Tong University
+- 2021.12: &nbsp; Enrolled in [**Guozhi Class**](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb)
 
 # 💻 Internships
 <div class='paper-box-right'><div class='paper-box-image'><div><a href="https://opendrivelab.com"><img src='images/odl_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
