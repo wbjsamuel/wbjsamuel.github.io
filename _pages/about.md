@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am an undergraduate student from the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) (held by [Prof.Cewu Lu](https://www.mvig.org/) and [Prof.Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/)), Shanghai Jiao Tong University and major in **Artificial Intelligence**. 
+Hi, I am an undergraduate student from the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) (held by [Prof.Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/) and [Prof.Cewu Lu](https://www.mvig.org/)), Shanghai Jiao Tong University and major in **Artificial Intelligence**. 
 
-Currently, I work as a research intern at [**OpenDriveLab**](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). Meanwhile, I also work as a research intern at [**ReThinkLab**](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
+Currently, I work as a research intern at [OpenDriveLab](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). Meanwhile, I also work as a research intern at [ReThinkLab](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
 
 My research interest includes ***robotics, embodied AI, autonomous driving and computer vision***. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
 
@@ -27,13 +27,13 @@ In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my ski
 
 # 🔥 News
 - 2023.11: &nbsp; Going to serve as a reviewer for **CVPR 2024**
-- 2023.09: &nbsp; One paper(OpenLane-V2) is accepted by **NeurIPS 2023**
-- 2023.07: &nbsp; Participate in [**RACV 2023**](https://mp.weixin.qq.com/s/xq5vVxIL27NLLQX9oFgv1w)
-- 2023.03: &nbsp; Become a member of [**OpenDriveLab**](https://opendrivelab.com)
-- 2023.02: &nbsp; Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He
-- 2022.11: &nbsp; Become a member of  [**ReThinkLab**](https://thinklab.sjtu.edu.cn)
-- 2022.08: &nbsp; Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory in JHC, Shanghai Jiao Tong University
-- 2021.12: &nbsp; Enrolled in [**Guozhi Class**](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb)
+- 2023.09: &nbsp; One paper(OpenLane-V2) is accepted by **NeurIPS 2023**.
+- 2023.07: &nbsp; Participate in [RACV 2023](https://mp.weixin.qq.com/s/xq5vVxIL27NLLQX9oFgv1w).
+- 2023.03: &nbsp; Become a member of [OpenDriveLab](https://opendrivelab.com).
+- 2023.02: &nbsp; Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He.
+- 2022.11: &nbsp; Become a member of  [ReThinkLab](https://thinklab.sjtu.edu.cn).
+- 2022.08: &nbsp; Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory in JHC, Shanghai Jiao Tong University.
+- 2021.12: &nbsp; Enrolled in [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) and selected as the class monitor.
 
 # 💻 Internships
 <div class='paper-box-right'><div class='paper-box-image'><div><a href="https://opendrivelab.com"><img src='images/odl_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
@@ -67,6 +67,17 @@ In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my ski
 </div>
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/lane_segment.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" style="font-family:  Georgia, serif; font-size: 14px;">
+[**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**](https://arxiv.org/abs/2312.16108)
+
+Tianyu Li$^\ast$, Peijin Jia$^\ast$, **Bangjun Wang**, Li Chen, Kun Jiang, Junchi Yan, Hongyang Li
+
+[**Github**](https://github.com/OpenDriveLab/LaneSegNet)<strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+- *We advocate Lane Segment as a map learning paradigm that seamlessly incorporates both map 🛣️ geometry and 🕸️ topology information.* <a href="https://github.com/OpenDriveLab/LaneSegNet"><img src="https://img.shields.io/github/stars/OpenDriveLab/LaneSegNet?style=social" alt="GitHub" style="opacity: .8"></a>
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuraIPS 2023</div><img src='images/olv2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="font-family:  Georgia, serif; font-size: 14px;">
