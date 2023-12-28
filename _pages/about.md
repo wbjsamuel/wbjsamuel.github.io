@@ -33,7 +33,7 @@ In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my ski
 - 2023.02: &nbsp; Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He.
 - 2022.11: &nbsp; Become a member of  [ReThinkLab](https://thinklab.sjtu.edu.cn).
 - 2022.08: &nbsp; Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory in JHC, Shanghai Jiao Tong University.
-- 2021.12: &nbsp; Enrolled in [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) and selected as the class monitor.
+- 2021.12: &nbsp; Enrolled in [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb).
 
 # 💻 Internships
 <div class='paper-box-right'><div class='paper-box-image'><div><a href="https://opendrivelab.com"><img src='images/odl_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
