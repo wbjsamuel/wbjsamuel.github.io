@@ -28,6 +28,7 @@ In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my ski
 - My latest resume is available here: [CV](https://wbjsamuel.github.io/files/BangjunWang_Resume_20240120.pdf) [Updated on 29 Dec, 2023].
 
 # 🔥 News
+- 2024.01: &nbsp; One paper(LaneSegNet) is accepted by  <span style="color:#00aeff;background-color:#e6f7ff"><b>ICLR 2024</b></span>.
 - 2023.11: &nbsp; Going to serve as a reviewer for  <span style="color:#00aeff;background-color:#e6f7ff"><b>CVPR 2024</b></span>
 - 2023.09: &nbsp; One paper(OpenLane-V2) is accepted by  <span style="color:#00aeff;background-color:#e6f7ff"><b>NeurIPS 2023</b></span>.
 - 2023.07: &nbsp; Participate in [RACV 2023](https://mp.weixin.qq.com/s/xq5vVxIL27NLLQX9oFgv1w).
