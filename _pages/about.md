@@ -25,7 +25,7 @@ My research interest includes ***robotics, embodied AI, autonomous driving and c
 
 In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my skills in both photography📷 and cinematography🎥 and I am also a big fan of jazz🎷 and classical music🎼 !
 
-- My latest resume is available here: [CV](https://wbjsamuel.github.io/files/BangjunWang_Resume_20231229.pdf) [Updated on 29 Dec, 2023].
+- My latest resume is available here: [CV](https://wbjsamuel.github.io/files/BangjunWang_Resume_20240120.pdf) [Updated on 29 Dec, 2023].
 
 # 🔥 News
 - 2023.11: &nbsp; Going to serve as a reviewer for  <span style="color:#00aeff;background-color:#e6f7ff"><b>CVPR 2024</b></span>
