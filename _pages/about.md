@@ -69,7 +69,7 @@ In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my ski
 </div>
 
 # 📝 Publications
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/lane_segment.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/lane_segment.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="font-family:  Georgia, serif; font-size: 14px;">
 [**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**](https://arxiv.org/abs/2312.16108)
 
