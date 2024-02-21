@@ -23,7 +23,7 @@ Currently, I work as a research intern at [OpenDriveLab](https://opendrivelab.co
 
 My research interest includes ***robotics, embodied AI, autonomous driving and computer vision***. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
 
-Recently, I have done a project related to human-oriented representation learning for robot manipulation.🦾
+Recently, I have co-led a project related to human-oriented representation learning for robot manipulation.🦾
 
 In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my skills in both photography📷 and cinematography🎥 and I am also a big fan of jazz🎷 and classical music🎼 !
 
@@ -31,6 +31,7 @@ In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my ski
 - I am seeking 2024 summer research position in the US. If you are interested in my research, please feel free to contact me via [email](mailto:wbjsamuel+001@gmail.com)
 
 # 🔥 News
+<!-- - 2024.03: &nbsp; Planning to collaborate with Prof.[Hao Dong](https://zsdonghao.github.io) of PKU-Agibot Lab on robot manipulation this spring semester. -->
 - 2024.02: &nbsp; One paper on robot manipulation has been submitted to <span style="color:#090;background-color:#DAF7A6"><b>RSS 2024</b></span>.
 - 2024.01: &nbsp; One paper(LaneSegNet) is accepted by  <span style="color:#00aeff;background-color:#e6f7ff"><b>ICLR 2024</b></span>.
 - 2023.11: &nbsp; Going to serve as a reviewer for  <span style="color:#00aeff;background-color:#e6f7ff"><b>CVPR 2024</b></span>
