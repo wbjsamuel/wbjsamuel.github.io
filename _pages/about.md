@@ -27,6 +27,7 @@ Recently, I have co-led a project related to human-oriented representation learn
 
 In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my skills in both photography📷 and cinematography🎥 and I am also a big fan of jazz🎷 and classical music🎼 !
 
+
 - My latest resume is available here: [CV](https://wbjsamuel.github.io/files/BangjunWang_Resume_20240120.pdf) [Updated on 20 Jan, 2024].
 - I am seeking 2024 summer research position in the US. If you are interested in my research, please feel free to contact me via [email](mailto:wbjsamuel+001@gmail.com)
 
@@ -79,7 +80,7 @@ In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my ski
 <div class='paper-box-text' markdown="1" style="font-family:  Georgia, serif; font-size: 14px;">
 [**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**](https://arxiv.org/abs/2312.16108)
 
-Tianyu Li$^\ast$, Peijin Jia$^\ast$, **Bangjun Wang**, Li Chen, Kun Jiang, Junchi Yan, Hongyang Li
+Tianyu Li$^\ast$, Peijin Jia$^\ast$, **Bangjun Wang**$^\ast$, Li Chen, Kun Jiang, Junchi Yan, Hongyang Li
 
 [**Github**](https://github.com/OpenDriveLab/LaneSegNet)<strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong>
 
