@@ -80,7 +80,7 @@ In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my ski
 <div class='paper-box-text' markdown="1" style="font-family:  Georgia, serif; font-size: 14px;">
 [**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**](https://arxiv.org/abs/2312.16108)
 
-Tianyu Li$^\ast$, Peijin Jia$^\ast$, **Bangjun Wang**$^\ast$, Li Chen, Kun Jiang, Junchi Yan, Hongyang Li
+Tianyu Li$^\ast$, Peijin Jia$^\ast$, **Bangjun Wang$^\ast$**, Li Chen, Kun Jiang, Junchi Yan, Hongyang Li
 
 [**Github**](https://github.com/OpenDriveLab/LaneSegNet)<strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong>
 
