@@ -19,7 +19,7 @@ redirect_from:
 
 Hi, I am an undergraduate student from the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) (held by [Prof.Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/) and [Prof.Cewu Lu](https://www.mvig.org/)), Shanghai Jiao Tong University and major in **Artificial Intelligence**. 
 
-Currently, I work as a research intern at [OpenDriveLab](https://opendrivelab.com), supervised by Prof. [Hongyang Li](https://lihongyang.info). Meanwhile, I also work as a research intern at [ReThinkLab](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
+Currently, I work as a research intern at both PKU-Agibot Lab(supervised by Prof. [Hao Dong](https://zsdonghao.github.io)) and [OpenDriveLab](https://opendrivelab.com)(supervised by Prof. [Hongyang Li](https://lihongyang.info)). Previously, I worked as a research intern at [ReThinkLab](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
 
 My research interest includes ***robotics, embodied AI, autonomous driving and computer vision***. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
 
@@ -32,19 +32,33 @@ In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my ski
 - I am seeking 2024 summer research position in the US. If you are interested in my research, please feel free to contact me via [email](mailto:wbjsamuel+001@gmail.com)
 
 # 🔥 News
-<!-- - 2024.03: &nbsp; Planning to collaborate with Prof.[Hao Dong](https://zsdonghao.github.io) of PKU-Agibot Lab on robot manipulation this spring semester. -->
+- 2024.03: &nbsp; Join [PKU-Agibot Lab](https://zsdonghao.github.io/#lab) supervised by Prof.[Hao Dong](https://zsdonghao.github.io).
 - 2024.02: &nbsp; One paper on robot manipulation has been submitted to <span style="color:#090;background-color:#DAF7A6"><b>RSS 2024</b></span>.
 - 2024.01: &nbsp; One paper(LaneSegNet) is accepted by  <span style="color:#00aeff;background-color:#e6f7ff"><b>ICLR 2024</b></span>.
 - 2023.11: &nbsp; Going to serve as a reviewer for  <span style="color:#00aeff;background-color:#e6f7ff"><b>CVPR 2024</b></span>
 - 2023.09: &nbsp; One paper(OpenLane-V2) is accepted by  <span style="color:#00aeff;background-color:#e6f7ff"><b>NeurIPS 2023</b></span>.
-- 2023.07: &nbsp; Participate in [RACV 2023](https://mp.weixin.qq.com/s/xq5vVxIL27NLLQX9oFgv1w).
+- 2023.07: &nbsp; Serve as the session secretary in [RACV 2023](https://mp.weixin.qq.com/s/xq5vVxIL27NLLQX9oFgv1w).
 - 2023.03: &nbsp; Become a member of [OpenDriveLab](https://opendrivelab.com).
-- 2023.02: &nbsp; Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He.
-- 2022.11: &nbsp; Become a member of  [ReThinkLab](https://thinklab.sjtu.edu.cn).
-- 2022.08: &nbsp; Join Prof. [Nanyang Ye](https://ynysjtu.github.io)’s Laboratory in JHC, Shanghai Jiao Tong University.
-- 2021.12: &nbsp; Enrolled in [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb).
-
+<details>
+  <summary>Earlier News</summary>
+  <ul>
+    <li>2023.02: &nbsp; Participate in MCM/ICM 2023, collaborating with Wenye Yu and Yunlin He.</li>
+    <li>2022.11: &nbsp; Become a member of  <a href="https://thinklab.sjtu.edu.cn">ReThinkLab</a>.</li>
+    <li>2022.08: &nbsp; Join Prof. <a href="https://ynysjtu.github.io">Nanyang Ye</a>’s Laboratory in JHC, Shanghai Jiao Tong University.</li>
+    <li>2021.12: &nbsp; Enrolled in <a href="http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb">Guozhi Class</a>.</li>
+  </ul>
+</details>
 # 💻 Internships
+<div class='paper-box-right'><div class='paper-box-image'><div><a href="https://www.pku.edu.cn"><img src='images/pku.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
+<div class='paper-box-text' markdown="1">
+## PKU-Agibot Lab
+
+*2024.03 - (present)*, Supervisor: Prof. [Hao Dong](https://zsdonghao.github.io).
+- **Robotics, Robot Learning**
+
+</div>
+</div>
+
 <div class='paper-box-right'><div class='paper-box-image'><div><a href="https://opendrivelab.com"><img src='images/odl_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
 ## OpenDriveLab
@@ -60,20 +74,20 @@ In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my ski
 <div class='paper-box-text' markdown="1">
 ## ReThinkLab, Shanghai Jiao Tong University
 
-*2022.11 - (present)*, Supervisor: Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
+*2022.11 - 2023.05*, Supervisor: Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
 - **Image Retrieval, Image Matching**
 
 </div>
 </div>
 
-<div class='paper-box-right'><div class='paper-box-image'><div><a href="https://ynysjtu.github.io/"><img src='images/sjtu_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
+<!-- <div class='paper-box-right'><div class='paper-box-image'><div><a href="https://ynysjtu.github.io/"><img src='images/sjtu_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
 ## Nanyang Ye’s lab, JHC, Shanghai Jiao Tong University
 
 *2022.6 - 2022.11*, Supervisor: Prof. [Nanyang Ye](https://ynysjtu.github.io)
 - **Causal Inference, OoD learning, OoD HDR Video Compression**
 </div>
-</div>
+</div> -->
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/lane_segment.jpg' alt="sym" width="100%"></div></div>
