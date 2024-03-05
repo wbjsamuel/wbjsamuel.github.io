@@ -99,6 +99,8 @@ Tianyu Li$^\ast$, Peijin Jia$^\ast$, **Bangjun Wang$^\ast$**, Li Chen, Kun Jiang
 [**Github**](https://github.com/OpenDriveLab/LaneSegNet)<strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 - *We advocate Lane Segment as a map learning paradigm that seamlessly incorporates both map 🛣️ geometry and 🕸️ topology information.* <a href="https://github.com/OpenDriveLab/LaneSegNet"><img src="https://img.shields.io/github/stars/OpenDriveLab/LaneSegNet?style=social" alt="GitHub" style="opacity: .8"></a>
+- [Track Mapless Driving, Autonomous Grand Challenge, CVPR 2024](https://opendrivelab.com/challenge2024/#mapless_driving)
+
 </div>
 </div>
 
@@ -111,7 +113,7 @@ Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun W
 [**Project**](https://github.com/OpenDriveLab/OpenLane-V2) <strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 - *The World's First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving.* <a href="https://github.com/OpenDriveLab/OpenLane-V2"><img src="https://img.shields.io/github/stars/OpenDriveLab/OpenLane-V2?style=social" alt="GitHub" style="opacity: .8"></a>
-- [OpenLane Topology, AD Challenge 2023, CVPR 2023](https://opendrivelab.com/AD23Challenge.html#openlane_topology)
+- [Track OpenLane Topology, AD Challenge 2023, CVPR 2023](https://opendrivelab.com/AD23Challenge.html#openlane_topology)
 </div>
 </div>
 
