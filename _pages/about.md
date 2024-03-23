@@ -28,7 +28,7 @@ Recently, I have co-led a project related to human-oriented representation learn
 In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my skills in both photography📷 and cinematography🎥 and I am also a big fan of jazz🎷 and classical music🎼 !
 
 
-- My latest resume is available here: [CV](https://wbjsamuel.github.io/files/BangjunWang_Resume_20240120.pdf) [Updated on 20 Jan, 2024].
+- My latest resume is available here: [CV](https://wbjsamuel.github.io/files/BangjunWang_Resume_Mar23.pdf) [Updated on 23 Mar, 2024].
 - I am seeking 2024 summer research position in the US. If you are interested in my research, please feel free to contact me via [email](mailto:wbjsamuel+001@gmail.com)
 
 # 🔥 News
@@ -139,3 +139,4 @@ Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun W
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 -  -->
+  
