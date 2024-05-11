@@ -23,7 +23,7 @@ Currently, I work as a research intern at both PKU-Agibot Lab(supervised by Prof
 
 My research interest includes ***robotics, embodied AI, autonomous driving and computer vision***. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
 
-Recently, I have co-led a project related to human-oriented representation learning for robot manipulation.🦾
+Recently, I have co-led a project related to human-oriented representation learning for robot manipulation and now I am leading a project on VLA framework like RT-X, Octo, and etc.🦾
 
 In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my skills in both photography📷 and cinematography🎥 and I am also a big fan of jazz🎷 and classical music🎼 !
 
