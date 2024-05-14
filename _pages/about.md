@@ -19,21 +19,22 @@ redirect_from:
 
 Hi, I am an undergraduate student from the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) (held by [Prof.Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/) and [Prof.Cewu Lu](https://www.mvig.org/)), Shanghai Jiao Tong University and major in **Artificial Intelligence**. 
 
-Currently, I work as a research intern at both PKU-Agibot Lab(supervised by Prof. [Hao Dong](https://zsdonghao.github.io)) and [OpenDriveLab](https://opendrivelab.com)(supervised by Prof. [Hongyang Li](https://lihongyang.info)). Previously, I worked as a research intern at [ReThinkLab](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
+Currently, I work as a research intern at both PKU-Agibot Lab(supervised by Prof. [Hao Dong](https://zsdonghao.github.io)) and [OpenDriveLab](https://opendrivelab.com)(supervised by Prof. [Hongyang Li](https://lihongyang.info)). Previously, I worked as a research undergrad. at [ReThinkLab](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
 
 My research interest includes ***robotics, embodied AI, autonomous driving and computer vision***. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
 
-Recently, I have co-led a project related to human-oriented representation learning for robot manipulation and now I am leading a project on VLA framework like RT-X, Octo, and etc.🦾
+Recently, I have co-led a project related to human-oriented representation learning for robot manipulation, which has been accepted by <span style="color:#090;background-color:#DAF7A6"><b>RSS 2024</b></span>🥳. And now I am leading a project on VLA framework like RT-X, Octo, and etc.🦾
 
-In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my skills in both photography📷 and cinematography🎥 and I am also a big fan of jazz🎷 and classical music🎼 !
+In my spare time, I enjoy playing tennis, travelling and drilling my skills in both photography and cinematography and I am also a big fan of jazz and classical music!
 
 
-<!-- - My latest resume is available here: [CV](https://wbjsamuel.github.io/files/Bangjun_Resume_Mar23.pdf) [Updated on 23 Mar, 2024]. -->
+- My latest resume is available here: [CV](https://wbjsamuel.github.io/files/Bangjun_Resume_May14.pdf) [Updated on 14 May, 2024].
 - I am seeking 2024 summer research position in the US. If you are interested in my research, please feel free to contact me via [email](mailto:wbjsamuel+001@gmail.com)
 
 # 🔥 News
+- 2024.05: &nbsp; One paper(MPI) on robot manipulation has been accepted by <span style="color:#090;background-color:#DAF7A6"><b>RSS 2024</b></span>.
 - 2024.03: &nbsp; Join [PKU-Agibot Lab](https://zsdonghao.github.io/#lab) supervised by Prof.[Hao Dong](https://zsdonghao.github.io).
-- 2024.02: &nbsp; One paper on robot manipulation has been submitted to <span style="color:#090;background-color:#DAF7A6"><b>RSS 2024</b></span>.
+<!-- - 2024.02: &nbsp; One paper on robot manipulation has been submitted to <span style="color:#090;background-color:#DAF7A6"><b>RSS 2024</b></span>. -->
 - 2024.01: &nbsp; One paper(LaneSegNet) is accepted by  <span style="color:#00aeff;background-color:#e6f7ff"><b>ICLR 2024</b></span>.
 - 2023.11: &nbsp; Going to serve as a reviewer for  <span style="color:#00aeff;background-color:#e6f7ff"><b>CVPR 2024</b></span>
 - 2023.09: &nbsp; One paper(OpenLane-V2) is accepted by  <span style="color:#00aeff;background-color:#e6f7ff"><b>NeurIPS 2023</b></span>.
@@ -90,6 +91,21 @@ In my spare time, I enjoy playing tennis🎾, travelling🏝 and drilling my ski
 </div> -->
 
 # 📝 Publications
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2024</div><img src='images/mpi.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1" style="font-family:  Georgia, serif; font-size: 14px;">
+[**Learning Manipulation by Predicting Interaction**](https://wbjsamuel.github.io/files/RSS_2024_MPI-2.pdf)
+
+Jia Zeng$^\ast$, Qingwen Bu$^\ast$, **Bangjun Wang$^\ast$**, Wenke Xia$^\ast$, Li Chen, Hao Dong, H.Song, D.Wang, D.Hu, P.Luo, H.Cui, B.Zhao, X.Li, Y.Qiao, Hongyang Li 
+
+[**Github**](https://github.com/OpenDriveLab/LaneSegNet)<strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+- *We propose a general pre-training pipeline that learns Manipulation by Predicting the Interaction (MPI).* 
+<!-- - <a href="https://github.com/OpenDriveLab/LaneSegNet"><img src="https://img.shields.io/github/stars/OpenDriveLab/LaneSegNet?style=social" alt="GitHub" style="opacity: .8"></a> -->
+- arXiv and code will be released soon.🧑🏻‍💻
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/lane_segment.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="font-family:  Georgia, serif; font-size: 14px;">
 [**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**](https://arxiv.org/abs/2312.16108)
