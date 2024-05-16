@@ -21,7 +21,7 @@ Hi, I am an undergraduate student from the first session of [Guozhi Class](http:
 
 Currently, I work as a research intern at both PKU-Agibot Lab(supervised by Prof. [Hao Dong](https://zsdonghao.github.io)) and [OpenDriveLab](https://opendrivelab.com)(supervised by Prof. [Hongyang Li](https://lihongyang.info)). Previously, I worked as a research undergrad. at [ReThinkLab](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
 
-My research interest includes ***robotics, embodied AI, autonomous driving and computer vision***. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
+My research interest includes **Robot Learning, Embodied AI, autonomous driving and computer vision**. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
 
 Recently, I have co-led a project related to human-oriented representation learning for robot manipulation, which has been accepted by <span style="color:#090;background-color:#DAF7A6"><b>RSS 2024</b></span>🥳. And now I am leading a project on VLA framework like RT-X, Octo, and etc.🦾
 
@@ -92,12 +92,12 @@ In my spare time, I enjoy playing tennis, travelling and drilling my skills in b
 
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2024</div><img src='images/mpi.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="font-family:  Georgia, serif; font-size: 14px;">
+<div class='paper-box-text' markdown="1" style="font-family:  Noto Serif, Georgia, serif; font-size: 14px;">
 [**Learning Manipulation by Predicting Interaction**](https://wbjsamuel.github.io/files/RSS_2024_MPI-2.pdf)
 
 Jia Zeng$^\ast$, Qingwen Bu$^\ast$, **Bangjun Wang$^\ast$**, Wenke Xia$^\ast$, Li Chen, Hao Dong, H.Song, D.Wang, D.Hu, P.Luo, H.Cui, B.Zhao, X.Li, Y.Qiao, Hongyang Li 
 
-[**Github**](https://github.com/OpenDriveLab/LaneSegNet)<strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong>
+<!-- [**Github**](https://github.com/OpenDriveLab/LaneSegNet)<strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong> -->
 
 - *We propose a general pre-training pipeline that learns Manipulation by Predicting the Interaction (MPI).* 
 <!-- - <a href="https://github.com/OpenDriveLab/LaneSegNet"><img src="https://img.shields.io/github/stars/OpenDriveLab/LaneSegNet?style=social" alt="GitHub" style="opacity: .8"></a> -->
@@ -107,7 +107,7 @@ Jia Zeng$^\ast$, Qingwen Bu$^\ast$, **Bangjun Wang$^\ast$**, Wenke Xia$^\ast$, L
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/lane_segment.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="font-family:  Georgia, serif; font-size: 14px;">
+<div class='paper-box-text' markdown="1" style="font-family:  Noto Serif, Georgia, serif; font-size: 14px;">
 [**LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving**](https://arxiv.org/abs/2312.16108)
 
 Tianyu Li$^\ast$, Peijin Jia$^\ast$, **Bangjun Wang$^\ast$**, Li Chen, Kun Jiang, Junchi Yan, Hongyang Li
@@ -121,7 +121,7 @@ Tianyu Li$^\ast$, Peijin Jia$^\ast$, **Bangjun Wang$^\ast$**, Li Chen, Kun Jiang
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeuraIPS 2023</div><img src='images/olv2.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1" style="font-family:  Georgia, serif; font-size: 14px;">
+<div class='paper-box-text' markdown="1" style="font-family:  Noto Serif, Georgia, serif; font-size: 14px;">
 [**OpenLane-V2: A Topology Reasoning Benchmark for Scene Understanding in Autonomous Driving**](https://openreview.net/pdf?id=OMOOO3ls6g)
 
 Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun Wang**, Peijin Jia, Yuting Wang, Shengyin Jiang, Feng Wen, Hang Xu, Ping Luo, Junchi Yan, Wei Zhang, Hongyang Li
