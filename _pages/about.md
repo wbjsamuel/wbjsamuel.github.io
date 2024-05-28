@@ -32,7 +32,7 @@ In my spare time, I enjoy playing tennis, travelling and drilling my skills in b
 - I am seeking 2024 summer research position in the US. If you are interested in my research, please feel free to contact me via [email](mailto:wbjsamuel+001@gmail.com)
 
 # 🔥 News
-- 2024.05: &nbsp; Going to serve as a reviewer for  <span style="color:#00aeff;background-color:#e6f7ff"><b>NeurIPS 2024</b></span>
+- 2024.05: &nbsp; Serve as a reviewer for  <span style="color:#00aeff;background-color:#e6f7ff"><b>NeurIPS 2024</b></span> and <span style="color:#00aeff;background-color:#e6f7ff"><b>ACMMM 2024</b></span>
 - 2024.05: &nbsp; One paper(MPI) on robot manipulation has been accepted by <span style="color:#090;background-color:#DAF7A6"><b>RSS 2024</b></span>.
 - 2024.03: &nbsp; Join [PKU-Agibot Lab](https://zsdonghao.github.io/#lab) supervised by Prof.[Hao Dong](https://zsdonghao.github.io).
 <!-- - 2024.02: &nbsp; One paper on robot manipulation has been submitted to <span style="color:#090;background-color:#DAF7A6"><b>RSS 2024</b></span>. -->
@@ -146,7 +146,7 @@ Huijie Wang, Tianyu Li, Yang Li, Li Chen, Chonghao Sima, Zhenbo Liu, **Bangjun W
 - **TOEFL iBT**: 106(R:29, L:28, S:22, W:27)(first time), **CET6**: 638(first time)
 
 # 🧑🏻‍💻 Service
-- Reviewer for <span style="color:#00aeff;background-color:#e6f7ff"><b>CVPR 2024</b></span>, <span style="color:#00aeff;background-color:#e6f7ff"><b>NeurIPS 2024</b></span>
+- Reviewer for <span style="color:#00aeff;background-color:#e6f7ff"><b>CVPR 2024</b></span>, <span style="color:#00aeff;background-color:#e6f7ff"><b>ACMMM 2024</b></span>, <span style="color:#00aeff;background-color:#e6f7ff"><b>NeurIPS 2024</b></span>
 - Maintainer for [opendrivelab.com](https://opendrivelab.com) and [opendrivelab.sjtu.edu.cn](https://opendrivelab.sjtu.edu.cn)
 - Administrator of Computing Cluster, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
 - Class monitor, Guozhi Class, SEIEE, Shanghai Jiao Tong University.
