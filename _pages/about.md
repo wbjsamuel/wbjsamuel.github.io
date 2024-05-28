@@ -29,7 +29,7 @@ In my spare time, I enjoy playing tennis, travelling and drilling my skills in b
 
 
 - My latest resume is available here: [CV](https://wbjsamuel.github.io/files/Bangjun_Resume_May14.pdf) [Updated on 14 May, 2024].
-- I am seeking 2024 summer research position in the US. If you are interested in my research, please feel free to contact me via [email](mailto:wbjsamuel+001@gmail.com)
+- I am seeking 2024 summer research position and actively applying for 2025 Fall Ph.D in the US. If you are interested in my research, please feel free to contact me via [email](mailto:wbjsamuel+001@gmail.com)
 
 # 🔥 News
 - 2024.05: &nbsp; Serve as a reviewer for  <span style="color:#00aeff;background-color:#e6f7ff"><b>NeurIPS 2024</b></span> and <span style="color:#00aeff;background-color:#e6f7ff"><b>ACMMM 2024</b></span>
