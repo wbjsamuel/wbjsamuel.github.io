@@ -101,8 +101,7 @@ Jia Zeng$^\ast$, Qingwen Bu$^\ast$, **Bangjun Wang$^\ast$**, Wenke Xia$^\ast$, L
 [**Github**](https://github.com/OpenDriveLab/MPI)<strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong>
 
 - *We propose a general pre-training pipeline that learns Manipulation by Predicting the Interaction (MPI).* <a href="https://github.com/OpenDriveLab/MPI"><img src="https://img.shields.io/github/stars/OpenDriveLab/MPI?style=social" alt="GitHub" style="opacity: .8"></a>
-- [Project page](https://opendrivelab.com/MPI/)
-- [arXiv](https://arxiv.org/abs/2406.00439)
+- [Project Page](https://opendrivelab.com/MPI/) \| [arXiv](https://arxiv.org/abs/2406.00439)
 
 </div>
 </div>
