@@ -94,15 +94,15 @@ In my spare time, I enjoy playing tennis, travelling and drilling my skills in b
 # 📝 Publications
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">RSS 2024</div><img src='images/mpi.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1" style="font-family:  Noto Serif, Georgia, serif; font-size: 14px;">
-[**Learning Manipulation by Predicting Interaction**](https://wbjsamuel.github.io/files/RSS_2024_MPI-2.pdf)
+[**Learning Manipulation by Predicting Interaction**](https://arxiv.org/abs/2406.00439)
 
 Jia Zeng$^\ast$, Qingwen Bu$^\ast$, **Bangjun Wang$^\ast$**, Wenke Xia$^\ast$, Li Chen, Hao Dong, H.Song, D.Wang, D.Hu, P.Luo, H.Cui, B.Zhao, X.Li, Y.Qiao, Hongyang Li 
 
-<!-- [**Github**](https://github.com/OpenDriveLab/LaneSegNet)<strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong> -->
+[**Github**](https://github.com/OpenDriveLab/MPI)<strong><span class='show_paper_citations' data='_LeSlzUAAAAJ:u-x6o8ySG0sC'></span></strong>
 
-- *We propose a general pre-training pipeline that learns Manipulation by Predicting the Interaction (MPI).* 
-<!-- - <a href="https://github.com/OpenDriveLab/LaneSegNet"><img src="https://img.shields.io/github/stars/OpenDriveLab/LaneSegNet?style=social" alt="GitHub" style="opacity: .8"></a> -->
-- arXiv and code will be released soon.🧑🏻‍💻
+- *We propose a general pre-training pipeline that learns Manipulation by Predicting the Interaction (MPI).* <a href="https://github.com/OpenDriveLab/MPI"><img src="https://img.shields.io/github/stars/OpenDriveLab/MPI?style=social" alt="GitHub" style="opacity: .8"></a>
+- [Project page](https://opendrivelab.com/MPI/)
+- [arXiv](https://arxiv.org/abs/2406.00439)
 
 </div>
 </div>
