@@ -53,7 +53,7 @@ In my spare time, I enjoy playing tennis, travelling and drilling my skills in b
 # 💻 Internships
 <div class='paper-box-right'><div class='paper-box-image'><div><a href="https://www.pku.edu.cn"><img src='images/pku.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
-## PKU-Agibot Lab
+## PKU-Agibot Lab, Peking University(PKU)
 
 *2024.03 - (present)*, Supervisor: Prof. [Hao Dong](https://zsdonghao.github.io).
 - **Robotics, Robot Learning**
@@ -63,7 +63,7 @@ In my spare time, I enjoy playing tennis, travelling and drilling my skills in b
 
 <div class='paper-box-right'><div class='paper-box-image'><div><a href="https://opendrivelab.com"><img src='images/odl_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
-## OpenDriveLab
+## OpenDriveLab, The University of Hong Kong(HKU)
 
 *2023.03 - (present)*, Supervisor: Prof. [Hongyang Li](https://lihongyang.info).
 - **Robotics, Robot Learning**
@@ -74,7 +74,7 @@ In my spare time, I enjoy playing tennis, travelling and drilling my skills in b
 
 <div class='paper-box-right'><div class='paper-box-image'><div><a href="https://thinklab.sjtu.edu.cn"><img src='images/thinklab_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
-## ReThinkLab, Shanghai Jiao Tong University
+## ReThinkLab, Shanghai Jiao Tong University(SJTU)
 
 *2022.11 - 2023.05*, Supervisor: Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
 - **Image Retrieval, Image Matching**
