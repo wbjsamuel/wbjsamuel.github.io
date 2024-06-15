@@ -17,18 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, I am an undergraduate student from the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) (held by [Prof.Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/) and [Prof.Cewu Lu](https://www.mvig.org/)), Shanghai Jiao Tong University and major in **Artificial Intelligence**. 
+Hi, I am an undergraduate student from the first session of [Guozhi Class](http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb) (held by [Prof.Xiaoou Tang](https://www.ie.cuhk.edu.hk/faculty/Tang-Xiaoou-Sean/) and [Prof.Cewu Lu](https://www.mvig.org/)), Shanghai Jiao Tong University and major in **Artificial Intelligence**. Currently, I work as a research intern at both PKU-Agibot Lab(supervised by Prof. [Hao Dong](https://zsdonghao.github.io)) and [OpenDriveLab](https://opendrivelab.com)(supervised by Prof. [Hongyang Li](https://lihongyang.info)). Previously, I worked as a research undergrad. at [ReThinkLab](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn). 
 
-Currently, I work as a research intern at both PKU-Agibot Lab(supervised by Prof. [Hao Dong](https://zsdonghao.github.io)) and [OpenDriveLab](https://opendrivelab.com)(supervised by Prof. [Hongyang Li](https://lihongyang.info)). Previously, I worked as a research undergrad. at [ReThinkLab](https://thinklab.sjtu.edu.cn), supervised by Prof. [Junchi Yan](https://thinklab.sjtu.edu.cn).
+My research interest includes **Robot Learning, Embodied AI, autonomous driving and computer vision**. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a> 
 
-My research interest includes **Robot Learning, Embodied AI, autonomous driving and computer vision**. <a href="https://scholar.google.com/citations?user=_LeSlzUAAAAJ"><img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fwbjsamuel%2Fwbjsamuel.github.io%40google-scholar-stats%2Fgs_data_shieldsio.json&amp;logo=Google%20Scholar&amp;labelColor=f6f6f6&amp;color=9cf&amp;style=flat&amp;label=citations"></a>
-
-Recently, I have co-led a project related to human-oriented representation learning for robot manipulation, which has been accepted by <span style="color:#090;background-color:#DAF7A6"><b>RSS 2024</b></span>🥳. And now I am leading a project on VLA framework like RT-X, Octo, and etc.🦾
-
-In my spare time, I enjoy playing tennis, travelling and drilling my skills in both photography and cinematography and I am also a big fan of jazz and classical music!
+Recently, I have co-led a project related to human-oriented representation learning for robot manipulation, which has been accepted by <span style="color:#090;background-color:#DAF7A6"><b>RSS 2024</b></span>🥳. And now I am leading a project on VLA framework like RT-X, Octo, and etc.🦾 In my spare time, I enjoy playing tennis, travelling and drilling my skills in both photography and cinematography and I am also a big fan of jazz and classical music!
 
 
-- My latest resume is available here: [CV](https://wbjsamuel.github.io/files/Bangjun_Resume_May14.pdf) [Updated on 14 May, 2024].
+- My latest resume is available here: [CV](https://wbjsamuel.github.io/files/Bangjun_Resume_Jun15.pdf) [Updated on 15 June, 2024].
 - I am seeking 2024 summer research position and actively applying for 2025 Fall Ph.D in the US. If you are interested in my research, please feel free to contact me via [email](mailto:wbjsamuel+001@gmail.com)
 
 # 🔥 News
@@ -50,7 +46,7 @@ In my spare time, I enjoy playing tennis, travelling and drilling my skills in b
     <li>2021.12: &nbsp; Enrolled in <a href="http://www.qingyuan.sjtu.edu.cn/c/Introductiongzb">Guozhi Class</a>.</li>
   </ul>
 </details>
-# 💻 Internships
+# 💻 Experience
 <div class='paper-box-right'><div class='paper-box-image'><div><a href="https://www.pku.edu.cn"><img src='images/pku.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
 ## PKU-Agibot Lab, Peking University(PKU)
@@ -61,7 +57,7 @@ In my spare time, I enjoy playing tennis, travelling and drilling my skills in b
 </div>
 </div>
 
-<div class='paper-box-right'><div class='paper-box-image'><div><a href="https://opendrivelab.com"><img src='images/odl_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
+<div class='paper-box-right'><div class='paper-box-image'><div><a href="https://opendrivelab.com"><img src='images/hku.jpg' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
 ## OpenDriveLab, The University of Hong Kong(HKU)
 
@@ -72,7 +68,7 @@ In my spare time, I enjoy playing tennis, travelling and drilling my skills in b
 </div>
 </div>
 
-<div class='paper-box-right'><div class='paper-box-image'><div><a href="https://thinklab.sjtu.edu.cn"><img src='images/thinklab_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
+<div class='paper-box-right'><div class='paper-box-image'><div><a href="https://thinklab.sjtu.edu.cn"><img src='images/sjtu_logo.png' alt="sym" width="100px" style="padding: 10px;"></a></div></div>
 <div class='paper-box-text' markdown="1">
 ## ReThinkLab, Shanghai Jiao Tong University(SJTU)
 
