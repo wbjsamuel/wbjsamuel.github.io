@@ -13,12 +13,15 @@ $paragraph-indent           : false; // true, false (default)
 $indent-var                 : 0.5em;
 
 /* system typefaces */
-$serif                      : Georgia, Times, serif;
-$sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
-// $sans-serif                 : Georgia, serif, sans-serif;
+$serif                      : "Noto Serif", Georgia, Times, serif;
+// $sans-serif                 : "Trebuchet MS", Helvetica, sans-serif;
+// $sans-serif                 : Georgia, Helvetica, sans-serif;
 
-// $sans-serif                 : -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
-$monospace                  : Monaco, Consolas, "Lucida Console", monospace;
+
+// $sans-serif                 :  "Google Sans", "Noto Sans", "Poppins", "Helvetica Neue", "Noto Sans Display", -apple-system, "Roboto", Georgia, "Lato", serif, sans-serif;
+// $sans-serif                 : "JetBrains Mono", "SF Mono", Helvetica, -apple-system, "San Francisco";
+$sans-serif                 : "Google Sans", -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", Arial, sans-serif;
+$monospace                  : "JetBrains Mono", Monaco, Consolas, "Lucida Console", monospace;
 
 /* sans serif typefaces */
 $sans-serif-narrow          : $sans-serif;
@@ -114,12 +117,17 @@ $large                      : 1200px;
 $x-large                    : 1800px;
 */
 
+// $small                      : 600px !default;
+// $medium                     : 768px !default;
+// $medium-wide                : 900px !default;
+// $large                      : 925px !default;
+// $x-large                    : 1280px !default;
+
 $small                      : 600px !default;
 $medium                     : 768px !default;
 $medium-wide                : 900px !default;
-$large                      : 925px !default;
-$x-large                    : 1280px !default;
-
+$large                      : 1200px !default;
+$x-large                    : 1800px !default;
 /*
    Grid
    ========================================================================== */
